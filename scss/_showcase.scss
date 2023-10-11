@@ -1,0 +1,146 @@
+.showcase {
+ width: 1440px;
+height: 695px;
+display: flex;
+flex-shrink: 0;
+border-radius: 0px 0px 40px 40px;
+background: var(--Linear, linear-gradient(103deg, #FCEED5 6.43%, #FCEED5 78.33%, #FFE7BA 104.24%));
+}
+
+.right {
+    margin-left: 130px;
+}
+
+.right h3 {
+color: var(--primary-color-dark-blue-80, #002A48);
+font-family: SVN-Gilroy;
+font-size: 60px;
+font-style: normal;
+font-weight: 800;
+line-height: 68px;
+text-transform: capitalize;
+margin-top: 118px;
+}
+
+ .right h6 {
+    color: var(--primary-color-dark-blue-80, #002A48);
+    font-family: SVN-Gilroy;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; 
+    text-transform: capitalize;
+    
+    }
+
+    .right p {
+width: 480px;
+color: var(--neutral-color-80, #242B33);
+font-family: SVN-Gilroy;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; 
+margin-top: 24px;
+    }
+
+    .right a {
+        text-decoration: none;
+display: inline-flex;
+padding: 14px 28px 10px 28px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+border-radius: 57px;
+border: 1.5px solid var(--primary-color-dark-blue, #003459);
+margin-top: 34px;
+button {
+display: flex;
+width: 163px;
+padding: 14px 28px 10px 28px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 57px;
+background: var(--primary-color-dark-blue, #003459);
+}
+ }
+ button{
+ color: var(--neutral-color-00, #FDFDFD);
+font-family: SVN-Gilroy;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; 
+width: 178px;
+height: 45px;
+.btn {
+    width: 178px;
+            height: 45px;
+}
+ }
+
+ .left img {
+    position: absolute;
+    margin-top: 210px;
+ }
+
+ .smal-case {
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .smal-case p {
+    margin-top: 60px;
+    color: #000;
+    font-family: SVN-Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    margin-left: 95px;
+
+ }
+
+.smal-case h4 {
+    color: var(--primary-color-dark-blue, #003459);
+font-family: SVN-Gilroy;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px; 
+text-transform: capitalize;
+margin-left: 128px;
+margin-left: -690px;
+margin-top: 79px;
+}
+
+.smal-case a {
+display: inline-flex;
+ padding: 12px 28px;
+ justify-content: center;
+ align-items: center;
+ gap: 8px;
+margin-top: 50px;
+border-radius: 57px;
+border: 1.5px solid var(--primary-color-dark-blue, #003459);
+text-decoration: none;
+color: var(--primary-color-dark-blue, #003459);
+font-family: SVN-Gilroy;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+}
+
+
+.head {
+    display: flex;
+    
+}
+
+.btn {
+    margin-top: 33px;
+    width: 159px;
+    height: 61px;
+}
